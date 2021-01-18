@@ -1,5 +1,5 @@
 
-alert("PRUEBA");
+
 const $tablero= document.querySelector('#tablero');
 
 let $estado = document.querySelector('#estado');
@@ -142,7 +142,7 @@ $botonStart.onclick = function (){
             desbloquearStart();
         }
         
-        if(evaluacion === bien && nivel !=3 ){
+        if(evaluacion === bien && nivel !=10 ){
                   
             setTimeout(jugar,2000);
 
