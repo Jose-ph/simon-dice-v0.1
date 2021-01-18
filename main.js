@@ -134,7 +134,7 @@ $botonStart.onclick = function (){
 
 
         }
-        if (evaluacion === bien && nivel === 3){
+        if (evaluacion === bien && nivel === 10){
 
            // console.log("GANASTE");
             alert("SIMON DICE: GANASTE !!!")
