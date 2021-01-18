@@ -1,5 +1,5 @@
 
-
+alert("PRUEBA");
 const $tablero= document.querySelector('#tablero');
 
 let $estado = document.querySelector('#estado');
