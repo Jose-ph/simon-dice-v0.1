@@ -1,0 +1,48 @@
+#rojo {
+
+    background-color: red;
+    height: 250px;
+    border-radius: 100% 0 0 0;
+
+}
+
+#azul {
+
+    background-color: blue;
+    height: 250px;
+    border-radius: 0 100% 0 0;
+    
+}
+
+#amarillo {
+
+    background-color: yellow;
+    height: 250px;
+    border-radius: 0  0  100% 0;
+}
+
+#verde {
+
+    background-color: green;
+    height: 250px;
+    border-radius: 0 0 0 100%;
+}
+
+.circulo{
+
+    border-radius:50%;
+    height: 500px;
+    background-color: lightblue;
+}
+
+.barra-estado{
+
+    background-color: pink;
+}
+
+
+#tablero {
+
+
+    transform: scale(0.85);
+}
